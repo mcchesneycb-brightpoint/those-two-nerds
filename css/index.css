@@ -1,0 +1,45 @@
+header {
+	text-align: center;
+	margin-top:2%;
+	margin-bottom:2%;
+}
+
+main {
+	font-family: Bahnschrift;
+	display: grid;
+	margin-left: auto;
+	margin-right: auto;
+	grid-auto-flow: column;
+	width: 70%;
+}
+
+.ui_column {
+	border-style: solid;
+	border-color: black;
+	text-align: center;
+	float: left;
+	width: 100%;
+	color: black;
+	background-color: #666666;
+}
+
+.sp_column {
+	border-style: solid;
+	border-color: #EFF205;
+	text-align: center;
+	float: right;
+	width: 100%;
+	color: #EFF205;
+	background-color: #000034;
+}
+
+footer {
+	font-family: Bahnschrift;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer a {
+	color: #EFF205;
+}

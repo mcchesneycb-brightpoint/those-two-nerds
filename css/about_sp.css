@@ -1,0 +1,43 @@
+body {
+	background-color: #000034;
+	font-family: Bahnschrift;
+	color: #EFF205;
+}
+
+header {
+	text-align:center;
+	margin-top:2%;
+	margin-bottom:2%;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#nav {
+	padding-top: 1%;
+}
+
+
+#home {
+	vertical-align: top;
+	float: right;
+	padding-right: 1%;
+}
+
+main {
+	border: 2px solid #EFF205;
+	display:grid;
+	grid-auto-flow: column;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+article {
+	margin-left:5%;
+	margin-right:5%;
+}
+
+aside {
+	border: 2px solid #EFF205;
+}
